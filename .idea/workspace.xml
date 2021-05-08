@@ -32,7 +32,6 @@
       <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advance/deletgation/Delegation.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/ComponentNSample.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/CopySampleCode.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/EqualSample.kt" afterDir="false" />
@@ -40,6 +39,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/ToStringSample.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/User.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/UserData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/deletgation/Delegation.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/crossinline.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/hello.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/inline.kt" afterDir="false" />
@@ -47,7 +47,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/inlineLambda.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/inlineReturn.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/noinlineLambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/class/class.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/dataclass/dataclass.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/extension/extension.kt" afterDir="false" />
@@ -170,6 +169,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ivgg9ye6" />
+  </component>
   <component name="ProjectId" id="1sEuefmYucsEWWRuCM1KZc3IGjd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -206,5 +208,16 @@
       <updated>1620450171860</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
