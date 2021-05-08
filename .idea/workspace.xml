@@ -5,156 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="659756ce-1258-4b0d-974a-f38555ba6749" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/ComponentNSample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/CopySampleCode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/EqualSample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/HashCodeSample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/ToStringSample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/dataclass/UserData.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/deletgation/Delegation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/crossinline.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/hello.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/inline.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/inlineFunc.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/inlineLambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/inlineReturn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/advanced/inline/noinlineLambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/class/class.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/dataclass/dataclass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/extension/extension.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/extension/otherpackage.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/function/function.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/function/higherorder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/function/inline.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/function/labmda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/inheritance/inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/interface/interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/interface/multiInterface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/object/companion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/object/object.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/operator/elvis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/syntax/for.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/syntax/if.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/syntax/nullsafe.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/syntax/print.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/syntax/string.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/syntax/val.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/standard/syntax/var.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/version_one_point_five_point_zero/sealed_class/Event.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/version_one_point_five_point_zero/sealed_class/MainEvent.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/version_one_point_five_point_zero/sealed_class/SubEvent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/Extension/ExtensionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/class/ClassKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/class/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/class/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/dataclass/DataclassKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/dataclass/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/function/FunctionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/function/HigherorderKt$main$number$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/function/HigherorderKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/function/InlineKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/function/LabmdaKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/function/LabmdaKt$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/function/LabmdaKt$main$bool$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/function/LabmdaKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/inheritance/InheritanceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/inheritance/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/inheritance/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/InterfaceA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/InterfaceB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/InterfaceC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/InterfaceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/MultiInterfaceKt$main$a$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/MultiInterfaceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/MultipleInterfaceClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/MyInterface$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/interface/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/object/CompanionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/object/CompanionObject$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/object/CompanionObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/object/DataProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/object/DataProviderManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/object/ObjectKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/operator/ElvisKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/syntax/ForKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/syntax/IfKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/syntax/NullsafeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/syntax/PrintKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/syntax/StringKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/syntax/ValKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/syntax/VarKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advance/deletgation/Delegation.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/dataclass/ComponentNSample.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/dataclass/CopySampleCode.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/dataclass/EqualSample.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/dataclass/HashCodeSample.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/dataclass/ToStringSample.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/dataclass/User.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/dataclass/UserData.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/inline/crossinline.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/inline/hello.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/inline/inline.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/inline/inlineFunc.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/inline/inlineLambda.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/inline/inlineReturn.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/inline/noinlineLambda.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/class/class.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/dataclass/dataclass.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/extension/extension.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/extension/otherpackage.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/function/function.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/function/higherorder.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/function/inline.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/function/labmda.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/inheritance/inheritance.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/interface/interface.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/interface/multiInterface.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/object/companion.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/object/object.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/operator/elvis.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/syntax/for.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/syntax/if.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/syntax/nullsafe.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/syntax/print.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/syntax/string.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/syntax/val.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standard/syntax/var.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,14 +32,31 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ivgg9ye6" />
   </component>
   <component name="ProjectId" id="1sEuefmYucsEWWRuCM1KZc3IGjd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -182,21 +65,32 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="version_one_point_five_point_zero.sealed_class" />
+      <recent name="version_one_point_five_point_zero.sealed_class.test" />
+      <recent name="version_one_point_five_point_zero.seacle_class2" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standard.class.ClassKt" />
       <module name="untitled.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="standard.class.ClassKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.ClassKt" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -219,5 +113,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>

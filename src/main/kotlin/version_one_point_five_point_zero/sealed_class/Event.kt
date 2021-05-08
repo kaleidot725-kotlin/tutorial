@@ -1,0 +1,3 @@
+package version_one_point_five_point_zero.sealed_class
+
+sealed class Event
